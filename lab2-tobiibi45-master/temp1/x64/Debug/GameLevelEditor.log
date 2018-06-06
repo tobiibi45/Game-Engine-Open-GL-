@@ -1,0 +1,70 @@
+﻿  SceneManager.cpp
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\particlesystemrenderer.h(1): warning C4068: unknown pragma
+  main.cpp
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\particlesystemrenderer.h(1): warning C4068: unknown pragma
+  LevelEditorScene.cpp
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\particlesystemrenderer.h(1): warning C4068: unknown pragma
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorscene.cpp(24): warning C4305: 'argument': truncation from 'double' to 'float'
+  LevelEditorIMGUI.cpp
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\particlesystemrenderer.h(1): warning C4068: unknown pragma
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(185): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(186): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(186): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(201): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(206): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(207): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(226): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(227): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(298): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(298): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(328): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(333): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(335): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(340): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  LevelEditor.cpp
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\particlesystemrenderer.h(1): warning C4068: unknown pragma
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditor.cpp(225): warning C4018: '<': signed/unsigned mismatch
+  imgui_impl_glfw_gl3.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  GLFW_IMGUI_EngineCore.cpp
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\particlesystemrenderer.h(1): warning C4068: unknown pragma
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\glfw_imgui_enginecore.cpp(156): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\glfw_imgui_enginecore.cpp(350): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\glfw_imgui_enginecore.cpp(351): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\glfw_imgui_enginecore.cpp(355): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\glfw_imgui_enginecore.cpp(356): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\glfw_imgui_enginecore.cpp(361): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\glfw_imgui_enginecore.cpp(362): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\glfw_imgui_enginecore.cpp(389): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\glfw_imgui_enginecore.cpp(603): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+  Generating Code...
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\gameleveleditor\leveleditorimgui.cpp(343): warning C4172: returning address of local variable or temporary: vec
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+freetype281d.lib(autofit.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(autofit.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(bdf.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(bdf.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(cff.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(cff.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(ftbase.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(ftbase.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(ftbitmap.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(ftbitmap.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(ftdebug.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(ftdebug.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(ftgzip.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(ftgzip.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(ftinit.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(ftinit.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(ftlzw.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(ftlzw.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(ftsystem.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(ftsystem.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(smooth.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(smooth.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(pcf.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(pcf.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(pfr.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(pfr.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(psaux.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(psaux.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(pshinter.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(pshinter.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(psmodule.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(psmodule.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(raster.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(raster.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(sfnt.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(sfnt.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(truetype.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(truetype.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(type1.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(type1.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(type1cid.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(type1cid.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(type42.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(type42.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+freetype281d.lib(winfnt.obj) : warning LNK4099: PDB 'freetype281d.pdb' was not found with 'freetype281d.lib(winfnt.obj)' or at 'C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\bin\x64\Debug\freetype281d.pdb'; linking object as if no debug info
+  GameLevelEditor.vcxproj -> C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\OpeningAWindow\..\bin\x64\Debug\GameLevelEditor.exe
+  GameLevelEditor.vcxproj -> C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\OpeningAWindow\..\bin\x64\Debug\GameLevelEditor.pdb (Partial PDB)

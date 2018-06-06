@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\OpeningAWindow\..\temp\x64\Debug\) contains files shared from another project (Input.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  PlayerCharacter.cpp
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\particlesystemrenderer.h(1): warning C4068: unknown pragma
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\firstgame\playercharacter.cpp(71): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\firstgame\playercharacter.cpp(72): warning C4305: '=': truncation from 'double' to 'float'
+  GameScene.cpp
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\particlesystemrenderer.h(1): warning C4068: unknown pragma
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\firstgame\gamescene.cpp(31): warning C4305: 'argument': truncation from 'double' to 'float'
+  MyGameObjects.cpp
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\particlesystemrenderer.h(1): warning C4068: unknown pragma
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\firstgame\mygameobjects.cpp(69): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\firstgame\mygameobjects.cpp(70): warning C4305: '=': truncation from 'double' to 'float'
+  FirstGame.cpp
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\particlesystemrenderer.h(1): warning C4068: unknown pragma
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\firstgame\firstgame.cpp(68): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  FirstGame.vcxproj -> C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\OpeningAWindow\..\bin\x64\Debug\FirstGame.lib

@@ -1,0 +1,36 @@
+﻿  ParticleSystemRenderer.cpp
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\particlesystemrenderer.h(1): warning C4068: unknown pragma
+  ModelManager.cpp
+  Model.cpp
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\model.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\model.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\model.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\model.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\model.cpp(108): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\model.cpp(121): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\model.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\model.cpp(253): warning C4018: '<': signed/unsigned mismatch
+  Mesh.cpp
+  memoryManager.cpp
+  matrix.cpp
+  jsoncpp.cpp
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\jsoncpp.cpp(1018): warning C4018: '>': signed/unsigned mismatch
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\jsoncpp.cpp(1034): warning C4018: '>': signed/unsigned mismatch
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\jsoncpp.cpp(1035): warning C4018: '>': signed/unsigned mismatch
+  joint.cpp
+  GLFW_EngineCore.cpp
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\particlesystemrenderer.h(1): warning C4068: unknown pragma
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\glfw_enginecore.cpp(121): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\glfw_enginecore.cpp(245): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\glfw_enginecore.cpp(246): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\glfw_enginecore.cpp(250): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\glfw_enginecore.cpp(251): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\glfw_enginecore.cpp(256): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\glfw_enginecore.cpp(257): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tobz\desktop\unemployed sharks - final game\lab2-tobiibi45-master\openingawindow\input\glfw_enginecore.cpp(447): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+  AnimatedModel.cpp
+  Generating Code...
+  stb_image.c
+  glad.c
+  Generating Code...
+  Input.vcxproj -> C:\Users\Tobz\Desktop\Unemployed Sharks - Final Game\lab2-tobiibi45-master\OpeningAWindow\..\bin\x64\Debug\Input.lib

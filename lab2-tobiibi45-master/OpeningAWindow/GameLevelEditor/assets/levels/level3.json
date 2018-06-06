@@ -1,0 +1,169 @@
+{
+  "GameObjects": [
+    {
+      "name": "rock", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        192.24988603825585, 
+        12.223081876704931, 
+        -143.23953962826155
+      ], 
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "rock", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        0.0, 
+        12.614790253631867, 
+        -441.0672859942166
+      ], 
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "rock", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        0.0, 
+        16.956230328446736, 
+        104.87936137701791
+      ], 
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "rock", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        0.0, 
+        13.203072026080626, 
+        -67.42780256781538
+      ], 
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "rock", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        0.0, 
+        12.059311447353288, 
+        -265.96640820427535
+      ], 
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "duck", 
+      "orientation": [
+        0.5516973793370934, 
+        0.0, 
+        0.1971008034612976, 
+        0.0
+      ], 
+      "position": [
+        -86.61470390125679, 
+        5.095803358926524, 
+        370.0810964782734
+      ], 
+      "type": "PlayerCharacter"
+    }, 
+    {
+      "name": "grass", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "floor", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        0.0, 
+        132.7129341636922, 
+        0.0
+      ], 
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "rock", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        -204.50829648177503, 
+        9.802285144287488, 
+        -153.518525675017
+      ], 
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "ball", 
+      "orientation": [
+        2.2500198912258353, 
+        -4.277819524777594, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        -186.03067720526, 
+        24.049007801782324, 
+        265.8821151751869
+      ], 
+      "type": "DynamicEnvironmentObject"
+    }, 
+    {
+      "name": "ball", 
+      "orientation": [
+        2.2500198912258353, 
+        -4.277819524777594, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        185.84890671697767, 
+        24.049007801782324, 
+        265.8821151751869
+      ], 
+      "type": "DynamicEnvironmentObject"
+    }
+  ]
+}

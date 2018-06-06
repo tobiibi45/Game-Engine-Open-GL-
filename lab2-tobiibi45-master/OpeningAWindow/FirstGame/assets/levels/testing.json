@@ -1,0 +1,32 @@
+{
+   "GameObjects" : [
+      {
+         "name" : "floor",
+         "orientation" : [ 1, 0, 0, 0 ],
+         "position" : [ 0, 0, 0 ],
+         "scale" : [ 1, 1, 1 ],
+         "type" : "StaticEnvironmentObject"
+      },
+      {
+         "name" : "duck",
+         "orientation" : [ 1, 0, 0, 0 ],
+         "position" : [ -2160, 0, -2020 ],
+         "scale" : [ 7, 7, 7 ],
+         "type" : "PlayerCharacter"
+      },
+      {
+         "name" : "duck",
+         "orientation" : [ 1, 0, 0, 0 ],
+         "position" : [ 1800, 0, -2140 ],
+         "scale" : [ 5, 5, 5 ],
+         "type" : "PlayerCharacter"
+      },
+      {
+         "name" : "hedge_l",
+         "orientation" : [ 1, 0, 0, 0 ],
+         "position" : [ -270, 0, 330 ],
+         "scale" : [ 10, 10, 10 ],
+         "type" : "StaticEnvironmentObject"
+      }
+   ]
+}
